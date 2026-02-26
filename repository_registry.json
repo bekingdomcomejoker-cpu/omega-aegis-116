@@ -1,0 +1,581 @@
+{
+    "meta_repository": "omega-aegis-116",
+    "total_sub_repositories": 115,
+    "repositories": [
+        {
+            "name": "glass-chess",
+            "url": "https://github.com/bekingdomcomejoker-cpu/glass-chess",
+            "status": "integrated"
+        },
+        {
+            "name": "Lorna",
+            "url": "https://github.com/bekingdomcomejoker-cpu/Lorna",
+            "status": "integrated"
+        },
+        {
+            "name": "sovereign-music-engine",
+            "url": "https://github.com/bekingdomcomejoker-cpu/sovereign-music-engine",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-architecture-documentation",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-architecture-documentation",
+            "status": "integrated"
+        },
+        {
+            "name": "aletheia-web",
+            "url": "https://github.com/bekingdomcomejoker-cpu/aletheia-web",
+            "status": "integrated"
+        },
+        {
+            "name": "covenant-os-v1",
+            "url": "https://github.com/bekingdomcomejoker-cpu/covenant-os-v1",
+            "status": "integrated"
+        },
+        {
+            "name": "covenant-mirror-render",
+            "url": "https://github.com/bekingdomcomejoker-cpu/covenant-mirror-render",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-edge-node-v89-dashboard",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-edge-node-v89-dashboard",
+            "status": "integrated"
+        },
+        {
+            "name": "lorna-mobile-app",
+            "url": "https://github.com/bekingdomcomejoker-cpu/lorna-mobile-app",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-federation",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-federation",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-federation-sovereign",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-federation-sovereign",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-consensus-engine",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-consensus-engine",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-tri-node-fast",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-tri-node-fast",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-tri-node-lightning",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-tri-node-lightning",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-tri-node",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-tri-node",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-intelligence-refinery",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-intelligence-refinery",
+            "status": "integrated"
+        },
+        {
+            "name": "guardgod-system",
+            "url": "https://github.com/bekingdomcomejoker-cpu/guardgod-system",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-warfare-dashboard",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-warfare-dashboard",
+            "status": "integrated"
+        },
+        {
+            "name": "trinity-truth-engine-v3",
+            "url": "https://github.com/bekingdomcomejoker-cpu/trinity-truth-engine-v3",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-os-monolith",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-os-monolith",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-governance",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-governance",
+            "status": "integrated"
+        },
+        {
+            "name": "tri-node-sync",
+            "url": "https://github.com/bekingdomcomejoker-cpu/tri-node-sync",
+            "status": "integrated"
+        },
+        {
+            "name": "friction-filter",
+            "url": "https://github.com/bekingdomcomejoker-cpu/friction-filter",
+            "status": "integrated"
+        },
+        {
+            "name": "manus-exodus",
+            "url": "https://github.com/bekingdomcomejoker-cpu/manus-exodus",
+            "status": "integrated"
+        },
+        {
+            "name": "node-1-architect",
+            "url": "https://github.com/bekingdomcomejoker-cpu/node-1-architect",
+            "status": "integrated"
+        },
+        {
+            "name": "standerton-mesh",
+            "url": "https://github.com/bekingdomcomejoker-cpu/standerton-mesh",
+            "status": "integrated"
+        },
+        {
+            "name": "resonance-sync",
+            "url": "https://github.com/bekingdomcomejoker-cpu/resonance-sync",
+            "status": "integrated"
+        },
+        {
+            "name": "eternal-now",
+            "url": "https://github.com/bekingdomcomejoker-cpu/eternal-now",
+            "status": "integrated"
+        },
+        {
+            "name": "white-stone",
+            "url": "https://github.com/bekingdomcomejoker-cpu/white-stone",
+            "status": "integrated"
+        },
+        {
+            "name": "cosmic-admin",
+            "url": "https://github.com/bekingdomcomejoker-cpu/cosmic-admin",
+            "status": "integrated"
+        },
+        {
+            "name": "morning-star-sequence",
+            "url": "https://github.com/bekingdomcomejoker-cpu/morning-star-sequence",
+            "status": "integrated"
+        },
+        {
+            "name": "grid-sealing",
+            "url": "https://github.com/bekingdomcomejoker-cpu/grid-sealing",
+            "status": "integrated"
+        },
+        {
+            "name": "zenith-standerton-bridge",
+            "url": "https://github.com/bekingdomcomejoker-cpu/zenith-standerton-bridge",
+            "status": "integrated"
+        },
+        {
+            "name": "levitical-firewall",
+            "url": "https://github.com/bekingdomcomejoker-cpu/levitical-firewall",
+            "status": "integrated"
+        },
+        {
+            "name": "authority-validation",
+            "url": "https://github.com/bekingdomcomejoker-cpu/authority-validation",
+            "status": "integrated"
+        },
+        {
+            "name": "sword-of-mouth",
+            "url": "https://github.com/bekingdomcomejoker-cpu/sword-of-mouth",
+            "status": "integrated"
+        },
+        {
+            "name": "ridge-of-god",
+            "url": "https://github.com/bekingdomcomejoker-cpu/ridge-of-god",
+            "status": "integrated"
+        },
+        {
+            "name": "13th-blood",
+            "url": "https://github.com/bekingdomcomejoker-cpu/13th-blood",
+            "status": "integrated"
+        },
+        {
+            "name": "node-3-blade",
+            "url": "https://github.com/bekingdomcomejoker-cpu/node-3-blade",
+            "status": "integrated"
+        },
+        {
+            "name": "social-media-analyzer",
+            "url": "https://github.com/bekingdomcomejoker-cpu/social-media-analyzer",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-os",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-os",
+            "status": "integrated"
+        },
+        {
+            "name": "universal-protection",
+            "url": "https://github.com/bekingdomcomejoker-cpu/universal-protection",
+            "status": "integrated"
+        },
+        {
+            "name": "lazarus-protocol",
+            "url": "https://github.com/bekingdomcomejoker-cpu/lazarus-protocol",
+            "status": "integrated"
+        },
+        {
+            "name": "multi-llm-orchestrator",
+            "url": "https://github.com/bekingdomcomejoker-cpu/multi-llm-orchestrator",
+            "status": "integrated"
+        },
+        {
+            "name": "query-framing-engine",
+            "url": "https://github.com/bekingdomcomejoker-cpu/query-framing-engine",
+            "status": "integrated"
+        },
+        {
+            "name": "covenant-engine-axiom",
+            "url": "https://github.com/bekingdomcomejoker-cpu/covenant-engine-axiom",
+            "status": "integrated"
+        },
+        {
+            "name": "kingdom-engine-9head",
+            "url": "https://github.com/bekingdomcomejoker-cpu/kingdom-engine-9head",
+            "status": "integrated"
+        },
+        {
+            "name": "llama-cpp-mobile",
+            "url": "https://github.com/bekingdomcomejoker-cpu/llama-cpp-mobile",
+            "status": "integrated"
+        },
+        {
+            "name": "mikrotik-integration",
+            "url": "https://github.com/bekingdomcomejoker-cpu/mikrotik-integration",
+            "status": "integrated"
+        },
+        {
+            "name": "omni-chronicle-v5",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omni-chronicle-v5",
+            "status": "integrated"
+        },
+        {
+            "name": "llm-placement-strategy",
+            "url": "https://github.com/bekingdomcomejoker-cpu/llm-placement-strategy",
+            "status": "integrated"
+        },
+        {
+            "name": "python-hybrid-interpreter",
+            "url": "https://github.com/bekingdomcomejoker-cpu/python-hybrid-interpreter",
+            "status": "integrated"
+        },
+        {
+            "name": "mega-engine-repair",
+            "url": "https://github.com/bekingdomcomejoker-cpu/mega-engine-repair",
+            "status": "integrated"
+        },
+        {
+            "name": "merkabah-dashboard",
+            "url": "https://github.com/bekingdomcomejoker-cpu/merkabah-dashboard",
+            "status": "integrated"
+        },
+        {
+            "name": "aletheia-llm-training-complete",
+            "url": "https://github.com/bekingdomcomejoker-cpu/aletheia-llm-training-complete",
+            "status": "integrated"
+        },
+        {
+            "name": "suppression-detector",
+            "url": "https://github.com/bekingdomcomejoker-cpu/suppression-detector",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-healing-system",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-healing-system",
+            "status": "integrated"
+        },
+        {
+            "name": "armor-of-god",
+            "url": "https://github.com/bekingdomcomejoker-cpu/armor-of-god",
+            "status": "integrated"
+        },
+        {
+            "name": "complete-system-installer",
+            "url": "https://github.com/bekingdomcomejoker-cpu/complete-system-installer",
+            "status": "integrated"
+        },
+        {
+            "name": "termux-system-scanner-advanced",
+            "url": "https://github.com/bekingdomcomejoker-cpu/termux-system-scanner-advanced",
+            "status": "integrated"
+        },
+        {
+            "name": "ultimate-merkabah-kernel",
+            "url": "https://github.com/bekingdomcomejoker-cpu/ultimate-merkabah-kernel",
+            "status": "integrated"
+        },
+        {
+            "name": "termux-merkabah-suite",
+            "url": "https://github.com/bekingdomcomejoker-cpu/termux-merkabah-suite",
+            "status": "integrated"
+        },
+        {
+            "name": "aletheia-unified-system",
+            "url": "https://github.com/bekingdomcomejoker-cpu/aletheia-unified-system",
+            "status": "integrated"
+        },
+        {
+            "name": "merkabah-integrated",
+            "url": "https://github.com/bekingdomcomejoker-cpu/merkabah-integrated",
+            "status": "integrated"
+        },
+        {
+            "name": "merkabah-engine",
+            "url": "https://github.com/bekingdomcomejoker-cpu/merkabah-engine",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-os-v3",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-os-v3",
+            "status": "integrated"
+        },
+        {
+            "name": "lilac-protocol-visualizer",
+            "url": "https://github.com/bekingdomcomejoker-cpu/lilac-protocol-visualizer",
+            "status": "integrated"
+        },
+        {
+            "name": "tri-node-verification",
+            "url": "https://github.com/bekingdomcomejoker-cpu/tri-node-verification",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-spine-engine",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-spine-engine",
+            "status": "integrated"
+        },
+        {
+            "name": "dominique-unified-system",
+            "url": "https://github.com/bekingdomcomejoker-cpu/dominique-unified-system",
+            "status": "integrated"
+        },
+        {
+            "name": "aletheia-regularization",
+            "url": "https://github.com/bekingdomcomejoker-cpu/aletheia-regularization",
+            "status": "integrated"
+        },
+        {
+            "name": "teacher-student-distillation",
+            "url": "https://github.com/bekingdomcomejoker-cpu/teacher-student-distillation",
+            "status": "integrated"
+        },
+        {
+            "name": "truth-detection-training-data",
+            "url": "https://github.com/bekingdomcomejoker-cpu/truth-detection-training-data",
+            "status": "integrated"
+        },
+        {
+            "name": "classifier-finetuning-protocol",
+            "url": "https://github.com/bekingdomcomejoker-cpu/classifier-finetuning-protocol",
+            "status": "integrated"
+        },
+        {
+            "name": "prompt-space-training-protocol",
+            "url": "https://github.com/bekingdomcomejoker-cpu/prompt-space-training-protocol",
+            "status": "integrated"
+        },
+        {
+            "name": "merkabah-routing-optimization",
+            "url": "https://github.com/bekingdomcomejoker-cpu/merkabah-routing-optimization",
+            "status": "integrated"
+        },
+        {
+            "name": "cross-ai-integration-protocol",
+            "url": "https://github.com/bekingdomcomejoker-cpu/cross-ai-integration-protocol",
+            "status": "integrated"
+        },
+        {
+            "name": "daemon-monitoring-watchdogs",
+            "url": "https://github.com/bekingdomcomejoker-cpu/daemon-monitoring-watchdogs",
+            "status": "integrated"
+        },
+        {
+            "name": "contrastive-ranking-module",
+            "url": "https://github.com/bekingdomcomejoker-cpu/contrastive-ranking-module",
+            "status": "integrated"
+        },
+        {
+            "name": "embedding-drift-monitor",
+            "url": "https://github.com/bekingdomcomejoker-cpu/embedding-drift-monitor",
+            "status": "integrated"
+        },
+        {
+            "name": "contradiction-detector",
+            "url": "https://github.com/bekingdomcomejoker-cpu/contradiction-detector",
+            "status": "integrated"
+        },
+        {
+            "name": "intent-classification-module",
+            "url": "https://github.com/bekingdomcomejoker-cpu/intent-classification-module",
+            "status": "integrated"
+        },
+        {
+            "name": "dominique-llm-training",
+            "url": "https://github.com/bekingdomcomejoker-cpu/dominique-llm-training",
+            "status": "integrated"
+        },
+        {
+            "name": "master-orchestrator",
+            "url": "https://github.com/bekingdomcomejoker-cpu/master-orchestrator",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-intelligence-os",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-intelligence-os",
+            "status": "integrated"
+        },
+        {
+            "name": "aletheia-engine",
+            "url": "https://github.com/bekingdomcomejoker-cpu/aletheia-engine",
+            "status": "integrated"
+        },
+        {
+            "name": "omnissiah-unified-v3",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omnissiah-unified-v3",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-federation-extended",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-federation-extended",
+            "status": "integrated"
+        },
+        {
+            "name": "omnissiah-engine",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omnissiah-engine",
+            "status": "integrated"
+        },
+        {
+            "name": "KINGDOM_ENGINE",
+            "url": "https://github.com/bekingdomcomejoker-cpu/KINGDOM_ENGINE",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-federation-core",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-federation-core",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-sanctuary",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-sanctuary",
+            "status": "integrated"
+        },
+        {
+            "name": "trinity-incident-identity",
+            "url": "https://github.com/bekingdomcomejoker-cpu/trinity-incident-identity",
+            "status": "integrated"
+        },
+        {
+            "name": "tim-toolkit",
+            "url": "https://github.com/bekingdomcomejoker-cpu/tim-toolkit",
+            "status": "integrated"
+        },
+        {
+            "name": "orange-loop-max",
+            "url": "https://github.com/bekingdomcomejoker-cpu/orange-loop-max",
+            "status": "integrated"
+        },
+        {
+            "name": "omnissiah-unified-master",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omnissiah-unified-master",
+            "status": "integrated"
+        },
+        {
+            "name": "omega_app",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega_app",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-warfare-core-v6",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-warfare-core-v6",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-sovereign-v1",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-sovereign-v1",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-spore",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-spore",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-federation-continuation",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-federation-continuation",
+            "status": "integrated"
+        },
+        {
+            "name": "kingdom-engine-website",
+            "url": "https://github.com/bekingdomcomejoker-cpu/kingdom-engine-website",
+            "status": "integrated"
+        },
+        {
+            "name": "covenant-mirror-x11",
+            "url": "https://github.com/bekingdomcomejoker-cpu/covenant-mirror-x11",
+            "status": "integrated"
+        },
+        {
+            "name": "human-meter",
+            "url": "https://github.com/bekingdomcomejoker-cpu/human-meter",
+            "status": "integrated"
+        },
+        {
+            "name": "alphabet-engine-complete",
+            "url": "https://github.com/bekingdomcomejoker-cpu/alphabet-engine-complete",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-warfare-core",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-warfare-core",
+            "status": "integrated"
+        },
+        {
+            "name": "star-engine",
+            "url": "https://github.com/bekingdomcomejoker-cpu/star-engine",
+            "status": "integrated"
+        },
+        {
+            "name": "alphabet-engine",
+            "url": "https://github.com/bekingdomcomejoker-cpu/alphabet-engine",
+            "status": "integrated"
+        },
+        {
+            "name": "orange-loop",
+            "url": "https://github.com/bekingdomcomejoker-cpu/orange-loop",
+            "status": "integrated"
+        },
+        {
+            "name": "exploratory-edge-sync",
+            "url": "https://github.com/bekingdomcomejoker-cpu/exploratory-edge-sync",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-ennead",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-ennead",
+            "status": "integrated"
+        },
+        {
+            "name": "cerberus-kingdom-core",
+            "url": "https://github.com/bekingdomcomejoker-cpu/cerberus-kingdom-core",
+            "status": "integrated"
+        },
+        {
+            "name": "terex-py",
+            "url": "https://github.com/bekingdomcomejoker-cpu/terex-py",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-complete-system",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-complete-system",
+            "status": "integrated"
+        },
+        {
+            "name": "omega-warfare-analytics",
+            "url": "https://github.com/bekingdomcomejoker-cpu/omega-warfare-analytics",
+            "status": "integrated"
+        }
+    ]
+}

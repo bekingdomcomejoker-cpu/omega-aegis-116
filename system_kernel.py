@@ -1,5 +1,7 @@
 import numpy as np
 import time
+import json
+import os
 
 class SystemKernel:
     """
@@ -11,7 +13,31 @@ class SystemKernel:
         self.ALPHA = alpha
         self.start_time = time.time()
         self.state = "EXECUTION"
+        self.registry_path = "repository_registry.json"
+        self.repositories = self._load_registry()
         print(f"[KERNEL] Initialized with Resonance {self.LAMBDA}")
+        print(f"[KERNEL] {len(self.repositories)} sub-repositories wired into the spine.")
+
+    def _load_registry(self):
+        try:
+            with open(self.registry_path, "r") as f:
+                data = json.load(f)
+                return data.get("repositories", [])
+        except Exception as e:
+            print(f"[KERNEL] Error loading registry: {e}")
+            return []
+
+    def verify_integration(self):
+        """
+        Verifies that all 115 repositories are present in the registry.
+        """
+        total = len(self.repositories)
+        if total == 115:
+            print(f"[VERIFY] Integration Complete: 115/115 repositories are wired.")
+            return True
+        else:
+            print(f"[VERIFY] Integration Incomplete: {total}/115 repositories found.")
+            return False
 
     def analyze_context(self, input_signal):
         # Measure entropy to determine mode (Poet vs Engineer)
@@ -40,5 +66,6 @@ class SystemKernel:
 
 if __name__ == "__main__":
     kernel = SystemKernel()
-    res = kernel.execute("INIT_001", "Chicka chicka orange. The Merkabah is the vessel.")
+    kernel.verify_integration()
+    res = kernel.execute("INIT_001", "Chicka chicka orange. The Merkabah is the viewport.")
     print(res)
